@@ -8,6 +8,7 @@
  * Version: 1.1.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-3.0.txt
+ * GitHub Plugin URI: https://github.com/z-website/modal-block_zw.git
  *
  * @package CGB
  */
