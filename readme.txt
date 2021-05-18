@@ -12,7 +12,7 @@ Requires PHP: 5.6
 Stable tag: trunk
 Version: 1.2
 License: GPLv3
-GitHub Plugin URI: https://github.com/z-website/modal-block_zw.git
+GitHub Plugin URI: https://github.com/z-website/modal-block_zw
 
 This plugin provides a Gutenberg Modal / Popup Block.
 
